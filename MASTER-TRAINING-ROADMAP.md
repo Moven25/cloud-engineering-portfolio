@@ -25,3 +25,6 @@ Apply for suitable entry-level IT roles as skills develop. Provider and later ce
 | Months 43–60 | Architecture, consulting, capstones, optional AI infrastructure | Defend engineering and financial decisions; target mid-level roles with experience |
 
 Daily target: 30 minutes concepts, 60 practice, 15 assessment, 15 documentation. Adjust by proficiency; never delay suitable employment solely to finish the curriculum. A+ coursework only; Security+ first certification. Primary cloud and later certifications undecided. See [competencies](COMPETENCY-MATRIX.md) and [assessment](ASSESSMENT-STANDARDS.md).
+
+## Integrated advanced specialization
+Introduce basic business calculations during foundations; Python/API/SQL and AI literacy after fundamentals; deploy a small AI workload after secure cloud basics; add model operations after CI/CD; advanced AI reliability, security, FinOps and consulting in years 4–5. See [challenge progression](TRAINING-CHALLENGE-PROGRESSION.md). No change to first-job priorities or certification plan.

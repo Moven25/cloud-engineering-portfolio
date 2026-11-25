@@ -79,3 +79,10 @@ Each lab will include the objective, environment, steps taken, commands, observa
 - [PROJECT-INDEX.md](PROJECT-INDEX.md)
 
 Integrate business, FinOps, reliability and security across projects. AI infrastructure is optional later. Private scores and study notes stay outside this repository.
+
+## Advanced business-minded cloud engineering track
+- [AI infrastructure specialization](25-Platform-Engineering-and-AI-Infrastructure/AI-INFRASTRUCTURE-TRACK.md)
+- [Advanced business and FinOps](17-FinOps-and-Cloud-Cost-Optimization/ADVANCED-BUSINESS-FINOPS.md)
+- [Training challenge progression](TRAINING-CHALLENGE-PROGRESSION.md)
+
+124 planned or registered assignments in total; new advanced assignments remain planned. Cloud engineering remains primary, AI infrastructure elective advanced specialization.

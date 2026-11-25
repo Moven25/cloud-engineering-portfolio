@@ -102,6 +102,30 @@
 | LAB-098 | Enterprise IT capstone | Planned | — |
 | LAB-099 | Secure cloud migration capstone | Planned | — |
 | LAB-100 | Automated infrastructure capstone | Planned | — |
+| LAB-101 | Model size and memory estimation (AI foundations) | Planned | — |
+| LAB-102 | Local model inference and benchmark (AI foundations) | Planned | — |
+| LAB-103 | Compare CPU/GPU and quantization (AI foundations) | Planned | — |
+| LAB-104 | Authenticated model API integration (AI foundations) | Planned | — |
+| LAB-105 | Build synthetic knowledge retrieval and vector search (AI platform) | Planned | — |
+| LAB-106 | Deploy containerized inference endpoint (AI platform) | Planned | — |
+| LAB-107 | Compare managed vs self-hosted architecture (AI platform) | Planned | — |
+| LAB-108 | Evaluate model outputs with reference cases (AI platform) | Planned | — |
+| LAB-109 | Version model and prompts with rollback (AI platform) | Planned | — |
+| LAB-110 | Load test and measure latency/throughput (AI platform) | Planned | — |
+| LAB-111 | Implement caching and request limits (AI platform) | Planned | — |
+| LAB-112 | Monitor inference errors and costs (AI platform) | Planned | — |
+| LAB-113 | Test prompt injection defenses using synthetic data (AI security) | Planned | — |
+| LAB-114 | Validate tenant access and data isolation (AI security) | Planned | — |
+| LAB-115 | Constrain agent tool permissions and require approval (AI security) | Planned | — |
+| LAB-116 | Review AI governance and human escalation (AI security) | Planned | — |
+| LAB-117 | Calculate token and GPU unit costs (Business and AI FinOps) | Planned | — |
+| LAB-118 | Compare model quality versus cost (Business and AI FinOps) | Planned | — |
+| LAB-119 | Build demand and capacity forecast (Business and AI FinOps) | Planned | — |
+| LAB-120 | Model AI investment NPV and payback (Business and AI FinOps) | Planned | — |
+| LAB-121 | Create SQL KPI dashboard (Business and AI FinOps) | Planned | — |
+| LAB-122 | Evaluate vendor SLA and procurement (Business and AI FinOps) | Planned | — |
+| LAB-123 | Analyze cost per successful task and realized benefits (Business and AI FinOps) | Planned | — |
+| LAB-124 | Present executive AI investment recommendation (Business and AI FinOps) | Planned | — |
 
 **Status rules:** Not started → In progress → Completed (evidence and explanation reviewed). Document the actual date performed; do not backdate or fabricate screenshots.
 

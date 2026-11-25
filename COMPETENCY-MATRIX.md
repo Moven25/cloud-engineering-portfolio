@@ -24,3 +24,13 @@ Planned targets, not achieved scores. See [rubric](ASSESSMENT-STANDARDS.md). Per
 | AI infrastructure optional | 3 | Secure inference and cost model |
 | Architecture | 4 | ADR and tested design |
 | Consulting | 4 | Executive recommendation |
+
+## Advanced track targets (planned)
+| Competency | Target | Evidence |
+|---|---:|---|
+| AI inference infrastructure | 4 | Secure endpoint, load test and recovery |
+| MLOps/LLMOps | 3 | Versioned deployment, evaluation and rollback |
+| AI security | 4 | Synthetic adversarial tests and access isolation |
+| AI FinOps | 4 | Cost per correct task and sensitivity model |
+| Business intelligence | 3 | SQL dashboard and verified metrics |
+| Investment analysis | 4 | NPV, TCO, payback and realized-value assumptions |

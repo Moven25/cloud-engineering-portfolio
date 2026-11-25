@@ -5,3 +5,5 @@ Planned — no completed work claimed.
 Objectives: Pricing, budgets, tagging, forecasting, unit economics, commitments, anomaly detection.
 
 Use [lab tracker](../LAB-TRACKER.md), [competency matrix](../COMPETENCY-MATRIX.md), [templates](../templates/README.md) and [publishing standards](../PUBLISHING-CHECKLIST.md). Validate outcomes and document limitations with synthetic or sanitized evidence.
+
+[Advanced business and AI FinOps](ADVANCED-BUSINESS-FINOPS.md)

@@ -1,0 +1,3 @@
+# AI infrastructure specialization — planned
+
+Prerequisites: Linux, networking, Python, APIs, IAM, containers, cloud basics. LAB-101–116 cover local inference, model memory and compute, retrieval, serving, evaluation, lifecycle, scaling, observability and secure agents. Use small local models where feasible; Apple Silicon is not CUDA-compatible. Paid GPU/cloud only with approval. Evaluate quality, latency, throughput, errors, privacy, cost and rollback. Optional integrated AI help desk extension to capstones, synthetic data only. Compare non-AI alternatives. Sources: [AWS Generative AI Lens](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/), [Azure AI architecture](https://learn.microsoft.com/en-us/azure/well-architected/ai/architecture-pattern).
