@@ -34,3 +34,6 @@ Read this handoff and linked current roadmap and tracker from GitHub. Reconcile 
 
 ## Approved AWS-first refinement (2026-11-25)
 See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs and next Session 001 remain unchanged. Apply when ready, not on a fixed date.
+
+## Portfolio identity
+Cloud Engineering & Technology Strategy Portfolio. Preferred repository slug: cloud-engineering-portfolio. Repository rename pending manual GitHub settings action; continue using the existing repository URL until verified. Career goal: business-minded cloud engineer with AI infrastructure expertise. No change to training checkpoint.

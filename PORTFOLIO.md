@@ -1,4 +1,8 @@
-# Professional technical portfolio
+# Cloud Engineering & Technology Strategy Portfolio
+
+IT Infrastructure · AWS · Cybersecurity · Automation · AI Infrastructure · FinOps
+
+*Engineer for performance. Optimize for cost. Build for business value.*
 
 ## Professional introduction
 I am transitioning into IT support with a long-term focus on cloud engineering, cybersecurity, automation and business value. This portfolio documents practical learning and verified technical work.

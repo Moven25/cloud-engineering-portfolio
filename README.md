@@ -1,4 +1,8 @@
-# IT Support, Cybersecurity & Cloud Engineering | Hands-On Portfolio
+# Cloud Engineering & Technology Strategy Portfolio
+
+IT Infrastructure · AWS · Cybersecurity · Automation · AI Infrastructure · FinOps
+
+*Engineer for performance. Optimize for cost. Build for business value.*
 
 Welcome! This repository documents my learning journey toward entry-level **IT support**, **CompTIA Security+ certification**, and ultimately **cloud engineering**. A+ coursework is used for practical foundations only; I do not plan to sit its exams. IAM remains a supporting skill.
 
