@@ -1,7 +1,7 @@
 # CompTIA A+ Study and Lab Roadmap
 
 ## Goal
-Build genuine entry-level IT skills while preparing for **CompTIA A+ Core 1 (220-1201)** and **Core 2 (220-1202)**. After establishing these fundamentals, develop a specialization in **Identity and Access Management (IAM)**.
+Build genuine entry-level IT skills using **CompTIA A+ Core 1 (220-1201)** and **Core 2 (220-1202)** coursework. No A+ certification exams are planned. Security+ is the first certification target, followed by cloud engineering; IAM remains a supporting skill.
 
 ## Learning workflow
 1. Watch a Professor Messer lesson.
@@ -28,7 +28,7 @@ Not every lesson needs a standalone VM lab. Physical components require identifi
 - Software troubleshooting
 - Operational procedures
 
-## IAM specialization (later)
+## IAM foundations (later)
 - Windows and Active Directory identity administration
 - Microsoft Entra ID and MFA
 - Role-based access control and least privilege
@@ -41,3 +41,5 @@ Not every lesson needs a standalone VM lab. Physical components require identifi
 - Preserve authentic dates, outputs, and observations.
 - Remove sensitive information from screenshots.
 - Do not present fictional customer tickets as real incidents.
+
+See the [master training roadmap](MASTER-TRAINING-ROADMAP.md) for the cloud path.

@@ -23,3 +23,11 @@ Use this checklist before publishing each completed lab.
 ```
 
 Do not upload operating-system license keys, personal email addresses, account tokens, or screenshots of unrelated private projects.
+
+## Cloud and architecture additions
+- [ ] Label diagrams as planned, deployed or illustrative; keep editable source (Mermaid or draw.io) where applicable.
+- [ ] Record design decisions, alternatives, security and cost trade-offs in an ADR when relevant.
+- [ ] Include reproducible commands, versions, tests, limitations and cleanup steps for cloud resources.
+- [ ] Remove credentials, tokens, private identifiers, Terraform state, sensitive logs and personal information; never commit secrets or .env files.
+- [ ] Distinguish AI-assisted documentation from work actually performed; verify every claim and do not publish copyrighted course transcripts or exam questions.
+- [ ] Record failures honestly and mark completion only after evidence and explanation are reviewed.

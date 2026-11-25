@@ -1,6 +1,6 @@
-# IT Support & Cybersecurity | Hands-On Lab Portfolio
+# IT Support, Cybersecurity & Cloud Engineering | Hands-On Portfolio
 
-Welcome! This repository documents my learning journey toward **CompTIA A+**, entry-level **IT support**, and eventually **Identity and Access Management (IAM)**.
+Welcome! This repository documents my learning journey toward entry-level **IT support**, **CompTIA Security+ certification**, and ultimately **cloud engineering**. A+ coursework is used for practical foundations only; I do not plan to sit its exams. IAM remains a supporting skill.
 
 I use a virtual lab to practice technical skills, record evidence, explain what I learned, and build a portfolio of work I can discuss in interviews. **This is a learning portfolio, not a claim of professional IT employment or certification.**
 
@@ -23,9 +23,18 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 | [07 — SOC Labs](07-SOC-Analyst-Labs/README.md) | Optional future security investigations | Future |
 | [08 — IAM Specialization](08-IAM-Specialization/README.md) | Future identity and access management projects | Future |
 
+| [09-Linux-Administration ](09-Linux-Administration/README.md) | Linux CLI, users, permissions, services and logs | Planned |
+| [10-Cloud-Engineering ](10-Cloud-Engineering/README.md) | AWS or Azure networking, compute, storage, IAM and monitoring | Planned |
+| [11-Infrastructure-as-Code ](11-Infrastructure-as-Code/README.md) | Terraform and provider-native IaC; plan, apply, validate and destroy | Planned |
+| [12-Containers-and-Kubernetes ](12-Containers-and-Kubernetes/README.md) | Docker, images, orchestration and troubleshooting | Planned |
+| [13-DevOps-and-Automation ](13-DevOps-and-Automation/README.md) | Git, Python, Ansible, CI/CD and secure releases | Planned |
+| [14-Cloud-Architecture ](14-Cloud-Architecture/README.md) | Architecture diagrams, ADRs, resilience and cost trade-offs | Planned |
+| [15-Capstone-Projects ](15-Capstone-Projects/README.md) | Integrated independent projects with requirements and acceptance tests | Planned |
+| [16-Career-and-Employer-Research ](16-Career-and-Employer-Research/README.md) | Job requirements and curriculum prioritization | Planned |
+
 ## Learning roadmap
 
-**Current focus:** CompTIA A+ Core 1 (220-1201), followed by Core 2 (220-1202). Identity and Access Management (IAM) is a future specialization; I will build those labs after developing my IT foundations.
+**Current focus:** CompTIA A+ Core 1 (220-1201), followed by Core 2 (220-1202). Security+ is the first planned certification. Cloud provider selection is pending employer research; IAM is a supporting discipline.
 
 See the [A+ study and lab roadmap](A-PLUS-ROADMAP.md) for how coursework and portfolio exercises fit together.
 
@@ -43,3 +52,10 @@ Each lab will include the objective, environment, steps taken, commands, observa
 5. Revisit topics that need more practice.
 
 > Evidence is from my own lab environment. I distinguish guided exercises from independent troubleshooting and do not present simulated scenarios as real customer incidents.
+
+## Cloud training resources
+- [Master training roadmap](MASTER-TRAINING-ROADMAP.md)
+- [Employer skills tracker](16-Career-and-Employer-Research/EMPLOYER-SKILLS-TRACKER.md)
+- [Architecture diagram template](templates/ARCHITECTURE-DIAGRAM-TEMPLATE.md)
+- [Architecture decision record template](templates/ADR-TEMPLATE.md)
+- [Publishing checklist](PUBLISHING-CHECKLIST.md)
