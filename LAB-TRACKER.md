@@ -8,7 +8,6 @@
 | LAB-004 | DNS Troubleshooting | Not started | — |
 | LAB-005 | Audio Troubleshooting Case Study | Documentation pending (guided troubleshooting already performed) | — |
 | LAB-006 | PowerShell Fundamentals | Not started | — |
-
 | LAB-007 | Linux system administration | Not started | — |
 | LAB-008 | Network subnetting and routing | Not started | — |
 | LAB-009 | Security hardening and logging | Not started | — |
