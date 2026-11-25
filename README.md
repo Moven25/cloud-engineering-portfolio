@@ -89,3 +89,6 @@ Integrate business, FinOps, reliability and security across projects. AI infrast
 
 ## Resume training in a new chat
 Start with the [master training handoff](TRAINING-HANDOFF.md) for the current checkpoint and next assignment.
+
+## Recruiter-facing portfolio
+[Professional portfolio](PORTFOLIO.md) · [Career development plan](16-Career-and-Employer-Research/CAREER-DEVELOPMENT-PLAN.md)

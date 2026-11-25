@@ -28,3 +28,6 @@ At the end of each substantive session, update this checkpoint and relevant trac
 
 ## Resume prompt
 Read this handoff and linked current roadmap and tracker from GitHub. Reconcile any discrepancies before continuing. Resume the next assignment without restarting curriculum planning. Ask for private notes only if necessary and do not publish them.
+
+## Career development track
+[90-day career plan](16-Career-and-Employer-Research/CAREER-DEVELOPMENT-PLAN.md), [outreach drafts](16-Career-and-Employer-Research/LINKEDIN-OUTREACH-TEMPLATES.md), [content standards](16-Career-and-Employer-Research/CONTENT-AND-PORTFOLIO-STANDARDS.md), [recruiter portfolio](PORTFOLIO.md). Next career action: review actual LinkedIn profile, update headline/About and Featured manually. No outreach or posts sent. Private application tracking stays outside public GitHub. Review career progress weekly without displacing technical sessions.
