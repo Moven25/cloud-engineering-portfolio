@@ -86,3 +86,6 @@ Integrate business, FinOps, reliability and security across projects. AI infrast
 - [Training challenge progression](TRAINING-CHALLENGE-PROGRESSION.md)
 
 124 planned or registered assignments in total; new advanced assignments remain planned. Cloud engineering remains primary, AI infrastructure elective advanced specialization.
+
+## Resume training in a new chat
+Start with the [master training handoff](TRAINING-HANDOFF.md) for the current checkpoint and next assignment.
