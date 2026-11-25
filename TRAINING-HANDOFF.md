@@ -9,7 +9,7 @@ Last updated: 2026-11-25. Public-safe continuity record; not a private assessmen
 - Environment: Apple Silicon M4 Mac, UTM, Windows 11 ARM guest. Audio worked after restart; case study still pending. Other tools added only when required.
 
 ## Training direction
-Business-minded cloud engineer with security, automation, FinOps and advanced optional AI infrastructure expertise. A+ 220-1201/1202 coursework only, no A+ exams. Security+ first planned certification. Primary AWS/Azure choice pending employer research. Apply for suitable IT roles early. Two hours/day target; 30 min concepts, 60 practice, 15 assessment, 15 documentation, flexible.
+Business-minded cloud engineer with security, automation, FinOps and advanced AI infrastructure expertise. A+ 220-1201/1202 coursework only, no A+ exams. Security+ first planned certification. AWS is the approved primary platform; Microsoft workplace and Azure fundamentals remain complementary. Begin applying when readiness evidence supports it; spring/summer 2027 is a flexible target, earlier if ready. Two hours/day target; 30 min concepts, 60 practice, 15 assessment, 15 documentation, flexible.
 
 ## Coaching and continuity
 Teach unfamiliar concepts patiently; gradually reduce hints, introduce independent troubleshooting and business trade-offs. Ask one manageable question or task at a time. Do not equate copied transcripts, guided work or plans with mastery. Use actual evidence and learner explanation. Keep grades, detailed feedback, personal notes and course transcripts private outside this repository.
@@ -31,3 +31,6 @@ Read this handoff and linked current roadmap and tracker from GitHub. Reconcile 
 
 ## Career development track
 [90-day career plan](16-Career-and-Employer-Research/CAREER-DEVELOPMENT-PLAN.md), [outreach drafts](16-Career-and-Employer-Research/LINKEDIN-OUTREACH-TEMPLATES.md), [content standards](16-Career-and-Employer-Research/CONTENT-AND-PORTFOLIO-STANDARDS.md), [recruiter portfolio](PORTFOLIO.md). Next career action: review actual LinkedIn profile, update headline/About and Featured manually. No outreach or posts sent. Private application tracking stays outside public GitHub. Review career progress weekly without displacing technical sessions.
+
+## Approved AWS-first refinement (2026-11-25)
+See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs and next Session 001 remain unchanged. Apply when ready, not on a fixed date.

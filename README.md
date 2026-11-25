@@ -23,7 +23,7 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 | [07 — SOC Labs](07-SOC-Analyst-Labs/README.md) | Optional future security investigations | Future |
 | [08 — IAM Specialization](08-IAM-Specialization/README.md) | Future identity and access management projects | Future |
 | [09-Linux-Administration ](09-Linux-Administration/README.md) | Linux CLI, users, permissions, services and logs | Planned |
-| [10-Cloud-Engineering ](10-Cloud-Engineering/README.md) | AWS or Azure networking, compute, storage, IAM and monitoring | Planned |
+| [10-Cloud-Engineering ](10-Cloud-Engineering/README.md) | AWS (primary), Azure fundamentals (complementary) networking, compute, storage, IAM and monitoring | Planned |
 | [11-Infrastructure-as-Code ](11-Infrastructure-as-Code/README.md) | Terraform and provider-native IaC; plan, apply, validate and destroy | Planned |
 | [12-Containers-and-Kubernetes ](12-Containers-and-Kubernetes/README.md) | Docker, images, orchestration and troubleshooting | Planned |
 | [13-DevOps-and-Automation ](13-DevOps-and-Automation/README.md) | Git, Python, Ansible, CI/CD and secure releases | Planned |
@@ -43,7 +43,7 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 
 ## Learning roadmap
 
-**Current focus:** CompTIA A+ Core 1 (220-1201), followed by Core 2 (220-1202). Security+ is the first planned certification. Cloud provider selection is pending employer research; IAM is a supporting discipline.
+**Current focus:** CompTIA A+ Core 1 (220-1201), followed by Core 2 (220-1202). Security+ is the first planned certification. AWS is the approved primary cloud platform; IAM is a supporting discipline.
 
 See the [A+ study and lab roadmap](A-PLUS-ROADMAP.md) for how coursework and portfolio exercises fit together.
 
@@ -78,17 +78,20 @@ Each lab will include the objective, environment, steps taken, commands, observa
 - [templates/README.md](templates/README.md)
 - [PROJECT-INDEX.md](PROJECT-INDEX.md)
 
-Integrate business, FinOps, reliability and security across projects. AI infrastructure is optional later. Private scores and study notes stay outside this repository.
+Integrate business, FinOps, reliability and security across projects. AI infrastructure is a planned advanced specialization. Private scores and study notes stay outside this repository.
 
 ## Advanced business-minded cloud engineering track
 - [AI infrastructure specialization](25-Platform-Engineering-and-AI-Infrastructure/AI-INFRASTRUCTURE-TRACK.md)
 - [Advanced business and FinOps](17-FinOps-and-Cloud-Cost-Optimization/ADVANCED-BUSINESS-FINOPS.md)
 - [Training challenge progression](TRAINING-CHALLENGE-PROGRESSION.md)
 
-124 planned or registered assignments in total; new advanced assignments remain planned. Cloud engineering remains primary, AI infrastructure elective advanced specialization.
+124 planned or registered assignments in total; new advanced assignments remain planned. Cloud engineering remains primary, AI infrastructure is a planned advanced specialization.
 
 ## Resume training in a new chat
 Start with the [master training handoff](TRAINING-HANDOFF.md) for the current checkpoint and next assignment.
 
 ## Recruiter-facing portfolio
 [Professional portfolio](PORTFOLIO.md) · [Career development plan](16-Career-and-Employer-Research/CAREER-DEVELOPMENT-PLAN.md)
+
+## Approved AWS-first refinement (2026-11-25)
+See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs and next Session 001 remain unchanged. Apply when ready, not on a fixed date.

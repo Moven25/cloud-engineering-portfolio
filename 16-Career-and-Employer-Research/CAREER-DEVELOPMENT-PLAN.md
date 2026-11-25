@@ -15,3 +15,6 @@ IT support career transition toward business-minded cloud engineering, security,
 
 ## Review
 Track applications, replies, interviews and referrals privately. Review conversion rates monthly and adjust. Never publish recruiter names, private correspondence, grades or personal contact data. No automated outreach.
+
+## Approved AWS-first refinement (2026-11-25)
+See [AWS-first training strategy](../AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](../16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs and next Session 001 remain unchanged. Apply when ready, not on a fixed date.
