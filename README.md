@@ -22,7 +22,6 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 | [06 — Security Fundamentals](06-Security-Fundamentals/README.md) | Firewall, Defender, event logs | Planned |
 | [07 — SOC Labs](07-SOC-Analyst-Labs/README.md) | Optional future security investigations | Future |
 | [08 — IAM Specialization](08-IAM-Specialization/README.md) | Future identity and access management projects | Future |
-
 | [09-Linux-Administration ](09-Linux-Administration/README.md) | Linux CLI, users, permissions, services and logs | Planned |
 | [10-Cloud-Engineering ](10-Cloud-Engineering/README.md) | AWS or Azure networking, compute, storage, IAM and monitoring | Planned |
 | [11-Infrastructure-as-Code ](11-Infrastructure-as-Code/README.md) | Terraform and provider-native IaC; plan, apply, validate and destroy | Planned |
@@ -31,6 +30,16 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 | [14-Cloud-Architecture ](14-Cloud-Architecture/README.md) | Architecture diagrams, ADRs, resilience and cost trade-offs | Planned |
 | [15-Capstone-Projects ](15-Capstone-Projects/README.md) | Integrated independent projects with requirements and acceptance tests | Planned |
 | [16-Career-and-Employer-Research ](16-Career-and-Employer-Research/README.md) | Job requirements and curriculum prioritization | Planned |
+| [17-FinOps-and-Cloud-Cost-Optimization](17-FinOps-and-Cloud-Cost-Optimization/README.md) | Pricing, budgets, tagging, forecasting, unit economics, commitments, anomaly detection | Planned |
+| [18-Business-and-Technology-Strategy](18-Business-and-Technology-Strategy/README.md) | TCO, ROI, vendor evaluation, business continuity | Planned |
+| [19-Enterprise-Systems-Administration](19-Enterprise-Systems-Administration/README.md) | AD, Group Policy, Microsoft 365, endpoints, patching | Planned |
+| [20-Programming-APIs-and-Databases](20-Programming-APIs-and-Databases/README.md) | Python, Bash, Git, REST, JSON, YAML, SQL, testing | Planned |
+| [21-Observability-and-SRE](21-Observability-and-SRE/README.md) | Metrics, logs, traces, SLOs, incidents | Planned |
+| [22-Governance-Risk-and-Compliance](22-Governance-Risk-and-Compliance/README.md) | NIST CSF, risk, audit evidence, policy as code | Planned |
+| [23-Cloud-Migration-and-Modernization](23-Cloud-Migration-and-Modernization/README.md) | Dependencies, migration waves, cutover, rollback | Planned |
+| [24-IT-Service-Management-and-Project-Delivery](24-IT-Service-Management-and-Project-Delivery/README.md) | ITIL, tickets, change, assets, Agile | Planned |
+| [25-Platform-Engineering-and-AI-Infrastructure](25-Platform-Engineering-and-AI-Infrastructure/README.md) | Landing zones, GitOps, model serving, GPU and inference costs | Planned |
+| [26-Technical-Consulting-and-Leadership](26-Technical-Consulting-and-Leadership/README.md) | Requirements, proposals, procurement, executive communication | Planned |
 
 ## Learning roadmap
 
@@ -59,3 +68,14 @@ Each lab will include the objective, environment, steps taken, commands, observa
 - [Architecture diagram template](templates/ARCHITECTURE-DIAGRAM-TEMPLATE.md)
 - [Architecture decision record template](templates/ADR-TEMPLATE.md)
 - [Publishing checklist](PUBLISHING-CHECKLIST.md)
+
+## Academy resources
+- [COMPETENCY-MATRIX.md](COMPETENCY-MATRIX.md)
+- [ASSESSMENT-STANDARDS.md](ASSESSMENT-STANDARDS.md)
+- [ENTERPRISE-LAB-01.md](ENTERPRISE-LAB-01.md)
+- [TRAINING-RESOURCES.md](TRAINING-RESOURCES.md)
+- [15-Capstone-Projects/CAPSTONE-PLANS.md](15-Capstone-Projects/CAPSTONE-PLANS.md)
+- [templates/README.md](templates/README.md)
+- [PROJECT-INDEX.md](PROJECT-INDEX.md)
+
+Integrate business, FinOps, reliability and security across projects. AI infrastructure is optional later. Private scores and study notes stay outside this repository.

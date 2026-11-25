@@ -1,0 +1,26 @@
+# Competency matrix
+
+Planned targets, not achieved scores. See [rubric](ASSESSMENT-STANDARDS.md). Personal scores stay private.
+
+| Competency | Target level | Evidence gate |
+|---|---:|---|
+| Hardware/Windows | 4 | Diagnose unfamiliar fault |
+| Enterprise administration | 3 | Test user lifecycle and policy |
+| ITSM | 4 | Resolve prioritized tickets |
+| Networking | 4 | Trace and repair connectivity |
+| Linux | 4 | Restore service |
+| PowerShell/Bash/Python | 3 | Test reusable scripts |
+| Git/API/SQL | 3 | Reviewed change and query |
+| Security/IAM | 4 | Validate least privilege |
+| Cloud | 4 | Secure reproducible deployment |
+| Terraform/Ansible | 4 | Plan/apply/test/destroy |
+| Containers/CI/CD | 3 | Deploy and roll back |
+| SRE | 4 | SLO and recovery |
+| Governance | 3 | Risk and control evidence |
+| Migration | 3 | Cutover and rollback |
+| FinOps | 4 | Forecast and defend cost |
+| Business strategy | 4 | TCO/ROI sensitivity |
+| Platform engineering | 3 | Reusable module |
+| AI infrastructure optional | 3 | Secure inference and cost model |
+| Architecture | 4 | ADR and tested design |
+| Consulting | 4 | Executive recommendation |

@@ -19,7 +19,92 @@
 | LAB-015 | CI/CD pipeline | Not started | — |
 | LAB-016 | Backup and recovery | Not started | — |
 | LAB-017 | Cloud architecture capstone | Not started | — |
+| LAB-018 | Identify laptop components (Hardware) | Planned | — |
+| LAB-019 | Compare RAM and storage (Hardware) | Planned | — |
+| LAB-020 | Diagnose boot failure (Hardware) | Planned | — |
+| LAB-021 | Evaluate upgrade cost (Hardware) | Planned | — |
+| LAB-022 | Local groups (Enterprise) | Planned | — |
+| LAB-023 | NTFS permissions (Enterprise) | Planned | — |
+| LAB-024 | Windows services (Enterprise) | Planned | — |
+| LAB-025 | Event logs (Enterprise) | Planned | — |
+| LAB-026 | Isolated AD design (Enterprise) | Planned | — |
+| LAB-027 | Group Policy (Enterprise) | Planned | — |
+| LAB-028 | Onboarding/offboarding (Enterprise) | Planned | — |
+| LAB-029 | Endpoint patching (Enterprise) | Planned | — |
+| LAB-030 | Microsoft 365 simulation (Enterprise) | Planned | — |
+| LAB-031 | Incident ticket (ITSM) | Planned | — |
+| LAB-032 | Prioritize queue (ITSM) | Planned | — |
+| LAB-033 | Escalation (ITSM) | Planned | — |
+| LAB-034 | Knowledge article (ITSM) | Planned | — |
+| LAB-035 | Problem management (ITSM) | Planned | — |
+| LAB-036 | Change request (ITSM) | Planned | — |
+| LAB-037 | Asset inventory (ITSM) | Planned | — |
+| LAB-038 | SLA and acceptance criteria (ITSM) | Planned | — |
+| LAB-039 | Customer communication (ITSM) | Planned | — |
+| LAB-040 | DHCP (Network) | Planned | — |
+| LAB-041 | DNS capture (Network) | Planned | — |
+| LAB-042 | TCP handshake (Network) | Planned | — |
+| LAB-043 | VLAN simulation (Network) | Planned | — |
+| LAB-044 | NAT and firewall (Network) | Planned | — |
+| LAB-045 | VPN simulation (Network) | Planned | — |
+| LAB-046 | TLS certificate (Network) | Planned | — |
+| LAB-047 | Hybrid network (Network) | Planned | — |
+| LAB-048 | Filesystem (Linux) | Planned | — |
+| LAB-049 | Users and groups (Linux) | Planned | — |
+| LAB-050 | Permissions (Linux) | Planned | — |
+| LAB-051 | Packages (Linux) | Planned | — |
+| LAB-052 | systemd (Linux) | Planned | — |
+| LAB-053 | Logs (Linux) | Planned | — |
+| LAB-054 | Scheduled backup (Linux) | Planned | — |
+| LAB-055 | MFA simulation (Security) | Planned | — |
+| LAB-056 | RBAC (Security) | Planned | — |
+| LAB-057 | Security logs (Security) | Planned | — |
+| LAB-058 | Threat model (Security) | Planned | — |
+| LAB-059 | Authorized vulnerability scan (Security) | Planned | — |
+| LAB-060 | Risk register (Security) | Planned | — |
+| LAB-061 | NIST control mapping (Security) | Planned | — |
+| LAB-062 | Python inventory (Code/data) | Planned | — |
+| LAB-063 | Bash health check (Code/data) | Planned | — |
+| LAB-064 | JSON/YAML (Code/data) | Planned | — |
+| LAB-065 | REST API (Code/data) | Planned | — |
+| LAB-066 | Git pull request (Code/data) | Planned | — |
+| LAB-067 | Automated tests (Code/data) | Planned | — |
+| LAB-068 | SQL queries (Code/data) | Planned | — |
+| LAB-069 | Relational vs NoSQL (Code/data) | Planned | — |
+| LAB-070 | Compute comparison (Cloud) | Planned | — |
+| LAB-071 | Object storage (Cloud) | Planned | — |
+| LAB-072 | Cloud IAM (Cloud) | Planned | — |
+| LAB-073 | Private network (Cloud) | Planned | — |
+| LAB-074 | Load balancing (Cloud) | Planned | — |
+| LAB-075 | Managed database (Cloud) | Planned | — |
+| LAB-076 | Encryption keys (Cloud) | Planned | — |
+| LAB-077 | Budget alerts (Cloud) | Planned | — |
+| LAB-078 | Landing zone (Cloud) | Planned | — |
+| LAB-079 | Migration rollback (Cloud) | Planned | — |
+| LAB-080 | Terraform module (Automation) | Planned | — |
+| LAB-081 | Terraform state safety (Automation) | Planned | — |
+| LAB-082 | Ansible (Automation) | Planned | — |
+| LAB-083 | Container image (Automation) | Planned | — |
+| LAB-084 | Dependency scan (Automation) | Planned | — |
+| LAB-085 | Kubernetes workload (Automation) | Planned | — |
+| LAB-086 | GitOps (Automation) | Planned | — |
+| LAB-087 | SLI/SLO (Reliability) | Planned | — |
+| LAB-088 | Metrics dashboard (Reliability) | Planned | — |
+| LAB-089 | Alerts (Reliability) | Planned | — |
+| LAB-090 | Tracing (Reliability) | Planned | — |
+| LAB-091 | Incident postmortem (Reliability) | Planned | — |
+| LAB-092 | Provider pricing (FinOps) | Planned | — |
+| LAB-093 | AWS vs Azure TCO (FinOps) | Planned | — |
+| LAB-094 | Usage scenarios (FinOps) | Planned | — |
+| LAB-095 | Allocation and unit economics (FinOps) | Planned | — |
+| LAB-096 | Commitment break-even (FinOps) | Planned | — |
+| LAB-097 | ROI and vendor recommendation (FinOps) | Planned | — |
+| LAB-098 | Enterprise IT capstone | Planned | — |
+| LAB-099 | Secure cloud migration capstone | Planned | — |
+| LAB-100 | Automated infrastructure capstone | Planned | — |
 
 **Status rules:** Not started → In progress → Completed (evidence and explanation reviewed). Document the actual date performed; do not backdate or fabricate screenshots.
 
 Future lab IDs are provisional. Record guided vs independent work, actual date, evidence link and reviewer feedback in each lab report. LAB-005 remains documentation pending; no completion is claimed.
+
+Planned means not performed. IDs are stable, not a mandatory sequence. LAB-017 and LAB-098–100 are the four capstones. Private grades stay outside this repository.

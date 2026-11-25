@@ -31,3 +31,10 @@ Do not upload operating-system license keys, personal email addresses, account t
 - [ ] Remove credentials, tokens, private identifiers, Terraform state, sensitive logs and personal information; never commit secrets or .env files.
 - [ ] Distinguish AI-assisted documentation from work actually performed; verify every claim and do not publish copyrighted course transcripts or exam questions.
 - [ ] Record failures honestly and mark completion only after evidence and explanation are reviewed.
+
+## Academy standards
+- [ ] Keep scores, private feedback and raw notes outside public GitHub.
+- [ ] Label fictional scenarios and simulated savings; cite pricing date, region, currency and assumptions.
+- [ ] Obtain spending approval before paid cloud resources; set alerts and verify cleanup and residual charges. Alerts are not hard caps.
+- [ ] Include requirements, tests, controls, costs and recovery evidence as appropriate.
+- [ ] Add only verified projects to PROJECT-INDEX.md; preserve existing lab status.
