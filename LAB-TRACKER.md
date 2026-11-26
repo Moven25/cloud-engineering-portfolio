@@ -2,7 +2,7 @@
 
 | ID | Lab | Status | Evidence |
 | --- | --- | --- | --- |
-| LAB-001 | System Information & Hardware Diagnostics | Not started | — |
+| LAB-001 | System Information & Hardware Diagnostics | In progress | [Session 001 checkpoint](01-Hardware-and-Diagnostics/LAB-001-SESSION-001-CHECKPOINT.md) |
 | LAB-002 | Windows User Administration | Not started | — |
 | LAB-003 | Network Connectivity Diagnostics | Not started | — |
 | LAB-004 | DNS Troubleshooting | Not started | — |

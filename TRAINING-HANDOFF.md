@@ -1,11 +1,11 @@
 # Master training handoff
 
-Last updated: 2026-11-25. Public-safe continuity record; not a private assessment log.
+Last updated: 2026-11-26. Public-safe continuity record; not a private assessment log.
 
 ## Current checkpoint
-- Curriculum established: 26 categories, 124 registered assignments; 0 verified completed, 107 planned, 16 not started, LAB-005 documentation pending (guided audio troubleshooting performed).
-- Current stage: A+ practical foundations. No verified lesson completion recorded here; transcript collection is not completion.
-- Next session: Session 001, laptop hardware and system discovery; LAB-001 System Information & Hardware Diagnostics. Teach concepts, assess understanding, inspect actual system, distinguish host from guest hardware, record sanitized evidence and review explanation before marking complete.
+- Curriculum established: 26 categories, 124 registered assignments; 0 verified completed, 107 planned, 15 not started, 1 in progress, LAB-005 documentation pending (guided audio troubleshooting performed).
+- Current stage: A+ practical foundations. Professor Messer 220-1201 Objective 1.1 Laptop Hardware video watched (learner reported); understanding practiced, independent retention review pending.
+- Next session: Session 002. Resume LAB-001 Task 15 after a brief independent retention review. Provide management recommendation for simulated Excel performance case, then storage/system discovery, independent assessment and final documentation. [Session 001 evidence checkpoint](01-Hardware-and-Diagnostics/LAB-001-SESSION-001-CHECKPOINT.md).
 - Environment: Apple Silicon M4 Mac, UTM, Windows 11 ARM guest. Audio worked after restart; case study still pending. Other tools added only when required.
 
 ## Training direction
@@ -33,7 +33,7 @@ Read this handoff and linked current roadmap and tracker from GitHub. Reconcile 
 [90-day career plan](16-Career-and-Employer-Research/CAREER-DEVELOPMENT-PLAN.md), [outreach drafts](16-Career-and-Employer-Research/LINKEDIN-OUTREACH-TEMPLATES.md), [content standards](16-Career-and-Employer-Research/CONTENT-AND-PORTFOLIO-STANDARDS.md), [recruiter portfolio](PORTFOLIO.md). Next career action: review actual LinkedIn profile, update headline/About and Featured manually. No outreach or posts sent. Private application tracking stays outside public GitHub. Review career progress weekly without displacing technical sessions.
 
 ## Approved AWS-first refinement (2026-11-25)
-See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs and next Session 001 remain unchanged. Apply when ready, not on a fixed date.
+See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs remain unchanged; see current checkpoint above. Apply when ready, not on a fixed date.
 
 ## Portfolio identity
-Cloud Engineering & Technology Strategy Portfolio. Preferred repository slug: cloud-engineering-portfolio. Repository rename verified: https://github.com/Moven25/cloud-engineering-portfolio. Resume from https://github.com/Moven25/cloud-engineering-portfolio/blob/main/TRAINING-HANDOFF.md. Career goal: business-minded cloud engineer with AI infrastructure expertise. No change to training checkpoint.
+Cloud Engineering & Technology Strategy Portfolio. Preferred repository slug: cloud-engineering-portfolio. Repository rename verified: https://github.com/Moven25/cloud-engineering-portfolio. Resume from https://github.com/Moven25/cloud-engineering-portfolio/blob/main/TRAINING-HANDOFF.md. Career goal: business-minded cloud engineer with AI infrastructure expertise. See current checkpoint above.
