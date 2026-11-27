@@ -58,11 +58,7 @@ See [LAB-TRACKER.md](LAB-TRACKER.md) for lab status. **No formal labs have been 
 Each lab will include the objective, environment, steps taken, commands, observations, screenshots where appropriate, troubleshooting decisions, outcome, and a reflection in my own words. See the [lab report template](templates/LAB-REPORT-TEMPLATE.md).
 
 ## Learning approach
-1. Watch a lesson and study its concepts.
-2. Perform a related exercise where feasible.
-3. Record real observations and redact private information.
-4. Explain the results in my own words.
-5. Revisit topics that need more practice.
+Follow the [approved training protocol](MASTER-TRAINING-ROADMAP.md): spaced flashcard review, lesson, concept discussion, new cards, knowledge and oral assessment, practical work, interview communication and documentation. Include daily professional development and weekly stakeholder simulations. Review employer skills monthly. Individual grades remain private.
 
 > Evidence is from my own lab environment. I distinguish guided exercises from independent troubleshooting and do not present simulated scenarios as real customer incidents.
 
