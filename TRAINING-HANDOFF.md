@@ -3,10 +3,11 @@
 Last updated: 2026-11-27. Public-safe continuity record; not a private assessment log.
 
 ## Current checkpoint
-- Curriculum established: 26 categories, 124 registered assignments; 0 verified completed, 107 planned, 15 not started, 1 in progress, LAB-005 documentation pending (guided audio troubleshooting performed).
-- Current stage: A+ practical foundations. Professor Messer 220-1201 Objective 1.1 Laptop Hardware video watched (learner reported); understanding practiced, independent retention review pending.
+- Curriculum established: 26 categories, 124 registered assignments; 1 completed (guided), 107 planned, 15 not started, 0 in progress, LAB-005 documentation pending (guided audio troubleshooting performed).
+- Current stage: A+ practical foundations. Professor Messer 220-1201 Objective 1.1 Laptop Hardware video watched (learner reported); understanding practiced, retention review completed with coaching.
 - LAB-001 Excel case and management recommendation completed. [Case write-up](01-Hardware-and-Diagnostics/LAB-001-EXCEL-SLOWDOWN.md).
-- Next session: Begin with a brief independent retention review, then complete LAB-001 storage and system discovery, the independent assessment, and the remaining lab documentation. [Session 001 evidence checkpoint](01-Hardware-and-Diagnostics/LAB-001-SESSION-001-CHECKPOINT.md).
+- LAB-001 completed on 2026-11-27, including storage/system discovery and coached assessment. [Completion record](01-Hardware-and-Diagnostics/LAB-001-SESSION-001-CHECKPOINT.md).
+- Next session: brief retention check on volatile memory and problem scoping, then next Professor Messer coursework and LAB-002 Windows User Administration when appropriate.
 - Environment: Apple Silicon M4 Mac, UTM, Windows 11 ARM guest. Audio worked after restart. Other tools added only when required.
 
 ## Training direction
