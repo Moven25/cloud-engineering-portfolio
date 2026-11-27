@@ -2,4 +2,4 @@
 
 Focus: CPU, RAM, storage, system inventory.
 
-No labs published yet. Completed lab reports and sanitized evidence will be added here.
+- [LAB-001 Excel slowdown investigation](LAB-001-EXCEL-SLOWDOWN.md) — guided case study completed. Storage and system discovery and the independent assessment are pending.
