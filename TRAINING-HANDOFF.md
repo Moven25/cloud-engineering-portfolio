@@ -39,3 +39,6 @@ See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employmen
 
 ## Portfolio identity
 Cloud Engineering & Technology Strategy Portfolio. Preferred repository slug: cloud-engineering-portfolio. Repository rename verified: https://github.com/Moven25/cloud-engineering-portfolio. Resume from https://github.com/Moven25/cloud-engineering-portfolio/blob/main/TRAINING-HANDOFF.md. Career goal: business-minded cloud engineer with AI infrastructure expertise. See current checkpoint above.
+
+## Vocabulary and interview fluency (approved 2026-11-27)
+Use the [technical glossary and retention program](TECHNICAL-GLOSSARY.md) every session. Begin next session with LAB-001 vocabulary recall, then the next Core 1 video and aligned practical work; LAB-002 remains registered for Windows administration when coursework supports it. Use spaced review, scenario application, teach-back and interview practice. Keep individual scores private.
