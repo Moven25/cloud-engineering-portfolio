@@ -52,7 +52,7 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 See the [A+ study and lab roadmap](A-PLUS-ROADMAP.md) for how coursework and portfolio exercises fit together.
 
 ## Progress
-See [LAB-TRACKER.md](LAB-TRACKER.md) for lab status. **No formal labs have been completed or verified yet.**
+See [LAB-TRACKER.md](LAB-TRACKER.md) for lab status. See the tracker and linked evidence for verified completion status.
 
 ## How I document a lab
 Each lab will include the objective, environment, steps taken, commands, observations, screenshots where appropriate, troubleshooting decisions, outcome, and a reflection in my own words. See the [lab report template](templates/LAB-REPORT-TEMPLATE.md).
@@ -94,4 +94,7 @@ Start with the [master training handoff](TRAINING-HANDOFF.md) for the current ch
 [Professional portfolio](PORTFOLIO.md) · [Career development plan](16-Career-and-Employer-Research/CAREER-DEVELOPMENT-PLAN.md)
 
 ## Approved AWS-first refinement (2026-11-25)
-See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs and next Session 001 remain unchanged. Apply when ready, not on a fixed date.
+See [AWS-first training strategy](AWS-FIRST-TRAINING-STRATEGY.md) and [employment readiness gates](16-Career-and-Employer-Research/EMPLOYMENT-READINESS.md). These govern provider choice, certification priorities, 30-day readiness reviews, 60-day employer reviews and direct help desk-to-cloud transition. No new completed labs or assessment scores. Existing assignment IDs remain unchanged; see the current training handoff. Apply when ready, not on a fixed date.
+
+## Workplace simulation
+[Workplace simulation protocol](WORKPLACE-SIMULATION-PROTOCOL.md): planned stand-ups, sprint planning, code/design reviews, inherited systems, incident response and handoffs. Simulated experience is not professional employment.

@@ -16,3 +16,6 @@ flowchart TD
 ```
 
 Progress from help desk to administration, migration, automation and executive optimization. Simulate CFO, CTO, users and security reviewer. Use synthetic data, define RTO/RPO, budget, access and acceptance criteria per scenario. Start locally; explicit spending approval before paid resources, alerts and verified cleanup. Alerts are not hard caps.
+
+## Operating model
+Use [workplace protocol](WORKPLACE-SIMULATION-PROTOCOL.md): synthetic ticket backlog, stand-ups, sprint planning, change approvals, incident response, design review and handoffs. Coach role-plays stakeholders; no real team or production claims.

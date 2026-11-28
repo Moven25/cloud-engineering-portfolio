@@ -132,3 +132,6 @@
 Future lab IDs are provisional. Record guided vs independent work, actual date, evidence link and reviewer feedback in each lab report. LAB-005 remains documentation pending; no completion is claimed.
 
 Planned means not performed. IDs are stable, not a mandatory sequence. LAB-017 and LAB-098–100 are the four capstones. Private grades stay outside this repository.
+
+## Workplace overlays (planned)
+Apply [workplace protocol](WORKPLACE-SIMULATION-PROTOCOL.md) to existing IDs: LAB-031–039 tickets/change/handoff; LAB-040–054 inherited network/Linux faults; LAB-070–079 cloud design/recovery; LAB-080–091 code review, pipeline and incidents; LAB-101–124 AI reliability, security and business review; capstones LAB-017/098–100 sprint and handoff. No new IDs or completion claims.

@@ -37,3 +37,6 @@ Document requirements, evidence, troubleshooting decisions, validation, security
 [Training roadmap](MASTER-TRAINING-ROADMAP.md) · [Publishing standards](PUBLISHING-CHECKLIST.md)
 
 Professional contact: [GitHub profile](https://github.com/Moven25).
+
+## Planned workplace practice
+Future projects will include reviewed changes, incident reports, design decisions and operational handoffs where verified. See [training methodology](WORKPLACE-SIMULATION-PROTOCOL.md); these are planned simulations, not employment experience.

@@ -8,3 +8,6 @@
 | LAB-017 | Modernization and financial optimization | Architecture, ADRs, three-year TCO sensitivity, risks, reliability tests, executive presentation; defend trade-offs |
 
 Use fictional enterprise, requirements, sanitized evidence and independent explanation. Optional AI workload after foundations; evaluate privacy, quality and inference cost. No production claims.
+
+## Workplace acceptance overlay
+All capstones include prioritized backlog, ambiguous requirement clarification, inherited component review, tested change/rollback, incident or recovery exercise, design defense and handoff. Use [protocol](../WORKPLACE-SIMULATION-PROTOCOL.md).

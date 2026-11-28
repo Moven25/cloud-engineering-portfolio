@@ -45,3 +45,6 @@ Use the [technical glossary and retention program](TECHNICAL-GLOSSARY.md) every 
 
 ## Approved lesson protocol and professional development
 Follow the November 27 protocol in [master roadmap](MASTER-TRAINING-ROADMAP.md) and [assessment standards](ASSESSMENT-STANDARDS.md). Daily interactive flashcards, knowledge and oral assessment, practical activity, interview explanation, documentation; weekly stakeholder simulation; cumulative terminology exams every two sections. Videos 2 and 3 were practiced in conversation; detailed evidence documentation remains pending. Next: retention review then next mobile device networking lesson. Do not change formal lab completion counts without evidence.
+
+## Workplace simulation (approved 2026-11-27)
+Use [workplace simulation protocol](WORKPLACE-SIMULATION-PROTOCOL.md) starting with brief stand-ups and realistic tickets; progress to independent inherited-system, code-review and incident exercises. Weekly sprint/design/stakeholder review. Current lesson checkpoint and verified completion counts unchanged.

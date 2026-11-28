@@ -34,3 +34,13 @@ Planned targets, not achieved scores. See [rubric](ASSESSMENT-STANDARDS.md). Per
 | AI FinOps | 4 | Cost per correct task and sensitivity model |
 | Business intelligence | 3 | SQL dashboard and verified metrics |
 | Investment analysis | 4 | NPV, TCO, payback and realized-value assumptions |
+
+## Workplace evidence targets (planned)
+| Competency | Target | Evidence |
+|---|---:|---|
+| Code/design review | 4 | Explain diff, test and respond to review |
+| Incident/change ownership | 4 | Safe mitigation, rollback and verified recovery |
+| Planning and handoff | 3 | Prioritized backlog, acceptance criteria and runbook |
+| Stakeholder communication | 4 | Clarify conflicting requirements and defend tradeoffs |
+
+See [workplace protocol](WORKPLACE-SIMULATION-PROTOCOL.md).

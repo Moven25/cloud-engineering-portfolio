@@ -44,3 +44,6 @@ For every video: prior interactive flashcard review (10–15 min); watch lesson;
 Professional development: integrate 10–15 minutes daily and one weekly simulated meeting or presentation. Practice executive communication, business acumen, critical thinking, presentation, stakeholder management, ownership and emotional intelligence. Role-play CTO and challenging stakeholders; explain costs, risks, alternatives and tradeoffs. Increase independence and difficulty gradually.
 
 Review employer requirements monthly to prioritize advanced labs: AWS networking, IAM/security, Terraform, Python, CI/CD, containers, Kubernetes, observability, incident recovery, FinOps and secure AI/RAG applications. Include a non-logistics capstone. These are planned, not completed; preserve existing assignment IDs and evidence. The intensive 12–18 month training estimate is provisional and distinct from the longer career development horizon.
+
+## Approved workplace simulation enhancement (2026-11-27)
+Follow [workplace simulation protocol](WORKPLACE-SIMULATION-PROTOCOL.md) across all phases: stand-ups, sprint planning, code and design reviews, inherited systems, ambiguous requirements, incident response and engineering handoffs. Integrate into existing labs and professional development; retain certification and readiness gates.
