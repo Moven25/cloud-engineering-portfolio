@@ -135,3 +135,8 @@ Planned means not performed. IDs are stable, not a mandatory sequence. LAB-017 a
 
 ## Workplace overlays (planned)
 Apply [workplace protocol](WORKPLACE-SIMULATION-PROTOCOL.md) to existing IDs: LAB-031–039 tickets/change/handoff; LAB-040–054 inherited network/Linux faults; LAB-070–079 cloud design/recovery; LAB-080–091 code review, pipeline and incidents; LAB-101–124 AI reliability, security and business review; capstones LAB-017/098–100 sprint and handoff. No new IDs or completion claims.
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.
+
+Networking and coding extensions use existing IDs 003/004/008, 040–047, 006, 062–069, 070–091, 101–124. No new IDs or status changes.

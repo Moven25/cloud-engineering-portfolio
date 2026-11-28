@@ -47,3 +47,6 @@ Review employer requirements monthly to prioritize advanced labs: AWS networking
 
 ## Approved workplace simulation enhancement (2026-11-27)
 Follow [workplace simulation protocol](WORKPLACE-SIMULATION-PROTOCOL.md) across all phases: stand-ups, sprint planning, code and design reviews, inherited systems, ambiguous requirements, incident response and engineering handoffs. Integrate into existing labs and professional development; retain certification and readiness gates.
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.

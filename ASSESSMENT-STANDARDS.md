@@ -8,3 +8,8 @@ Use daily interactive flashcards, section-end terminology reviews, cumulative te
 
 ## Workplace simulation evidence
 Apply the existing weighted rubric to prioritization, review response, safe change and rollback, incident communication, verification and handoff. Record assistance and repeat unfamiliar cases. See [protocol](WORKPLACE-SIMULATION-PROTOCOL.md).
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.
+
+Certification readiness: consistent 90% on fresh timed representative practice exams plus independent practical evidence; distinct from regular knowledge and terminology targets. Coding gate: explain, modify, test and debug unfamiliar code without generated solution; AI-assisted review separately.

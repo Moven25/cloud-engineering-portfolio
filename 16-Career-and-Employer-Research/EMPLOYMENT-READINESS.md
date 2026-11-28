@@ -12,3 +12,6 @@ Comprehensive assessment across sessions: knowledge 45 min, independent lab 60 m
 
 ## Workplace readiness overlay
 Use [workplace protocol](../WORKPLACE-SIMULATION-PROTOCOL.md) at each gate: customer communication, prioritization, escalation, inherited systems, review, safe changes and handoff as appropriate. The 80% overall readiness rubric is distinct from 85% knowledge and 90% terminology targets. Simulations do not waive employer experience requirements.
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](../INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](../NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](../CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](../CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.

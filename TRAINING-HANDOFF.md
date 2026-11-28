@@ -48,3 +48,8 @@ Follow the November 27 protocol in [master roadmap](MASTER-TRAINING-ROADMAP.md) 
 
 ## Workplace simulation (approved 2026-11-27)
 Use [workplace simulation protocol](WORKPLACE-SIMULATION-PROTOCOL.md) starting with brief stand-ups and realistic tickets; progress to independent inherited-system, code-review and incident exercises. Weekly sprint/design/stakeholder review. Current lesson checkpoint and verified completion counts unchanged.
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.
+
+Next session remains retention review of mobile videos 1–3, then next mobile networking lesson. Detailed video 2/3 records and LAB-005 documentation pending. No progress change.

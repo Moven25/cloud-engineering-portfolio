@@ -44,3 +44,8 @@ Planned targets, not achieved scores. See [rubric](ASSESSMENT-STANDARDS.md). Per
 | Stakeholder communication | 4 | Clarify conflicting requirements and defend tradeoffs |
 
 See [workplace protocol](WORKPLACE-SIMULATION-PROTOCOL.md).
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.
+
+Refined planned targets: Python 4, Terraform 4, Bash 3–4, PowerShell 3, SQL 3, YAML/JSON 4, JavaScript 2. AI infrastructure specialization planned, independent level 4 design/deployment/troubleshooting with level 5 tradeoff defense as stretch. See coding roadmap for evidence.

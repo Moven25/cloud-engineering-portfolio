@@ -2,7 +2,7 @@
 Approved 2026-11-25. All work below is planned, not completed. Preserve 124 assignment IDs, 26 categories and four capstones.
 
 ## Direction and certification
-AWS primary; Microsoft 365, Entra ID, AD, Intune and Azure fundamentals complementary. Linux, networking, PowerShell, Python, Terraform, Docker and Git remain core. Kubernetes later. A+, Network+, AZ-900 and Cloud Practitioner coursework only; Security+ first exam, AWS Solutions Architect Associate next, Terraform Associate recommended, CloudOps Engineer Associate conditional, FinOps Practitioner recommended, Solutions Architect Professional and AI credential later after experience. Recheck current exam objectives and costs before booking.
+AWS primary; Microsoft 365, Entra ID, AD, Intune and Azure fundamentals complementary. Linux, networking, PowerShell, Python, Terraform, Docker and Git remain core. Kubernetes later. A+, Network+, AZ-900 and Cloud Practitioner coursework only; Security+ first exam, AWS Solutions Architect Associate next, Terraform Associate recommended, CloudOps Engineer Associate and Machine Learning Engineer Associate planned; FinOps Practitioner and Solutions Architect Professional deferred. Recheck current exam objectives and costs before booking.
 
 ## Career gates
 Review every 30 days; assess sooner when evidence supports it. Target spring/summer 2027, apply earlier if ready; no mandatory waiting period or Level 3 help desk prerequisite. Target Tier 2 competency, but consider Tier 1 or junior infrastructure roles with meaningful cloud exposure. After employment evaluate cloud readiness around six months, earlier if warranted; 6–12 months is an illustrative transition window, not a guarantee. Review 15–20 distinct relevant job descriptions every 60 days; separate required/preferred skills and experience, deduplicate and record dates. No applications or outreach without learner approval.
@@ -25,3 +25,6 @@ Inject unfamiliar faults in isolated labs: DNS, permissions, services, VPN, cert
 
 ## Consulting integration
 Use existing capstones LAB098–100 and LAB017. Adapt to SMB modernization, secure migration, automation, FinOps and AI document processing with synthetic logistics data. Include discovery, requirements, alternatives (including no change), estimates, TCO/ROI, scope, risks, proposal, acceptance tests, executive presentation, project margin and realized versus potential benefits. No claims of actual client work or savings. Keep AI infrastructure a long-term specialization, not a first-job prerequisite.
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.

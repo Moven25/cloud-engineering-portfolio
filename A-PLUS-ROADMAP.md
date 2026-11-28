@@ -20,7 +20,7 @@ Not every lesson needs a standalone VM lab. Physical components require identifi
 - Virtualization and cloud computing
 - Hardware and network troubleshooting
 
-**Initial planned lab:** LAB-001, System Information & Hardware Diagnostics. No completed lab is claimed.
+**LAB-001:** completed (guided); see lab tracker for evidence. Networking integrates selected Network+ lessons; no Network+ exam planned.
 
 ## Core 2 — 220-1202 (next)
 - Operating systems
@@ -43,3 +43,6 @@ Not every lesson needs a standalone VM lab. Physical components require identifi
 - Do not present fictional customer tickets as real incidents.
 
 See the [master training roadmap](MASTER-TRAINING-ROADMAP.md) for the cloud path.
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.

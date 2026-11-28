@@ -19,3 +19,14 @@ Check availability, pricing and exam versions before use. No new purchases requi
 - [Azure architecture](https://learn.microsoft.com/azure/well-architected/)
 - [AWS calculator](https://calculator.aws/)
 - [Azure calculator](https://azure.microsoft.com/pricing/calculator/)
+
+## Integrated progression refinement (2026-11-27)
+Follow [integrated learning progression](INTEGRATED-LEARNING-PROGRESSION.md), [networking curriculum](NETWORKING-MASTER-CURRICULUM.md), [coding roadmap](CODING-PROFICIENCY-ROADMAP.md) and [certification strategy](CERTIFICATION-PREPARATION-STRATEGY.md). These supersede conflicting earlier certification or sequencing recommendations. Preserve existing assignments, evidence, assessment standards and workplace simulations. All new targets are planned.
+
+- [Messer Network+ N10-009](https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/)
+- [Cisco Networking Academy](https://www.netacad.com/)
+- [Wireshark](https://www.wireshark.org/docs/)
+- [AWS VPC](https://docs.aws.amazon.com/vpc/)
+- [AWS certifications](https://aws.amazon.com/certification/)
+- [HashiCorp certifications](https://developer.hashicorp.com/certifications)
+- [CompTIA](https://www.comptia.org/)
